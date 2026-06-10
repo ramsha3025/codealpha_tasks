@@ -1,0 +1,7 @@
+# CleanWay Low Fidelity Design
+
+Figma link: https://www.figma.com/design/fhcJcZVs90bbOJkXkZHYhw/CleanWay-Low-Fidelity-Design?node-id=0-1&t=M4SjHF0xoZeoFGDL-1
+
+## Description
+
+Low fidelity wireframes for the CleanWay application.
